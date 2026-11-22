@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Modelo NLP (baixar com corporate_assistant/download_model.py)
+corporate_assistant/data/model/
+# Dados locais gerados em uso
+corporate_assistant/data/*.db
+corporate_assistant/data/*.pkl

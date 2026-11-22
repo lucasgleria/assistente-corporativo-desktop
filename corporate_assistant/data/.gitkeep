@@ -1,0 +1,4 @@
+# Diretório para dados da aplicação
+# - corporate_assistant.db (banco SQLite)
+# - model/ (modelo sentence-transformers)
+# - app.log (logs da aplicação)

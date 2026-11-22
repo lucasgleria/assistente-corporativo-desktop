@@ -1,0 +1,17 @@
+# Assistente Corporativo Desktop - Dependências
+# Python 3.10+ requerido
+
+# Interface Gráfica
+PyQt6>=6.5.0
+
+# ORM e Banco de Dados
+SQLAlchemy>=2.0.0
+
+# Processamento de Linguagem Natural (Offline)
+sentence-transformers>=2.2.0
+numpy>=1.24.0
+torch>=2.0.0
+transformers>=4.30.0
+
+# Utilitários
+pathlib2>=2.3.7
